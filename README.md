@@ -1,5 +1,6 @@
-- 👋 @nyeprior
-- ✨ Senior Cyber-Security Engineer at Immersive Labs
-- 🙋 Ask me about pen-testing, Red Teaming, or Offensive Security in general
-- 📫 Reach me at nyeprior@immersivelabs.com
+👋 Hello I'm @nyeprior
+
+✨ Senior Cyber-Security Engineer at Immersive Labs
+
+📫 nyeprior@immersivelabs.com
 
