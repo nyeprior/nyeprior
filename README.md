@@ -1,4 +1,4 @@
-👋 Hello I'm @nyeprior
+👋 Hi, I'm Nye
 
 ✨ Senior Cyber-Security Engineer at Immersive Labs
 
