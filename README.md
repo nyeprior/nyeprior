@@ -2,5 +2,5 @@
 
 ✨ Senior Cyber-Security Engineer at Immersive Labs
 
-📫 nyeprior@immersivelabs.com
+📫 nye.prior@immersivelabs.com
 
