@@ -1,6 +1,8 @@
 👋 Hi, I'm Nye
 
-✨ Senior Cyber-Security Engineer at Immersive Labs
+✨ Offensive Security Lead at Immersive Labs
+
+
 
 📫 nye.prior@immersivelabs.com
 
