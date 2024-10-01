@@ -1,4 +1,4 @@
 👋 Hi, I'm Nye
 
-✨ Offensive Security Lead at Immersive Labs
+✨ Lead Cyber Security Enginner at Immersive Labs
 
